@@ -1,0 +1,5 @@
+.idea
+public/indexes*.json
+public/reference
+cppreference-doxygen-local.tag.xml
+__pycache__
