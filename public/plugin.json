@@ -3,6 +3,7 @@
   "pluginName": "CPP 文档",
   "description": "CPP 文档速查",
   "author": "huchengbei",
+  "homepage": "https://github.com/huchengbei/utools-cpp-doc",
   "logo": "favicon.png",
   "preload": "preload.js",
   "features": [
