@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "pluginName": "CPP 文档",
+  "description": "CPP 文档速查",
+  "author": "huchengbei",
+  "logo": "favicon.png",
+  "preload": "preload.js",
+  "features": [
+    {
+      "code": "cpp",
+      "explain": "CPP Reference 文档速查(中英)",
+      "cmds": ["CPP"]
+    },
+    {
+      "code": "cpp-en",
+      "explain": "CPP Reference",
+      "cmds": ["CPP"]
+    },
+    {
+      "code": "cpp-cn",
+      "explain": "CPP 文档速查",
+      "cmds": ["CPP"]
+    }
+  ]
+}

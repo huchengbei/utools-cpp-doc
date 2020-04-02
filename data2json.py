@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
     base_url = 'reference/zh'
     jsondata = data2json(base_url, data)
-    with open('public/indexes-cn.json', 'w') as f:
+    with open('public/indexes-zh.json', 'w') as f:
         json.dump(jsondata, f)
 
     base_url = 'reference/en'
